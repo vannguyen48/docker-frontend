@@ -4,21 +4,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> This has been modified slightly
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div classname="container">
+        <h1>Hello World!</h1>
+        <p>I just created my first Reat App, and deployed it with Docker.</p>
     </div>
   );
 }
