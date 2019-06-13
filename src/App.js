@@ -6,7 +6,7 @@ function App() {
   return (
     <div classname="container">
         <h1>Hello World!</h1>
-        <p>I just created my first Reat App, and deployed it with Docker.</p>
+        <p>I just created my first React App, and deployed it with Docker.</p>
     </div>
   );
 }
